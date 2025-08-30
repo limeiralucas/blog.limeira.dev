@@ -1,6 +1,10 @@
 # The URL the site will be built for
 base_url = "https://blog.limeira.dev"
 
+# Title and description
+title = "Lucas's Dev Blog"
+description = "Experiments, tech stuff, and anything else I want to share with the world 😁"
+
 # Set blog's theme
 theme = "anemone"
 
